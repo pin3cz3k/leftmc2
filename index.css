@@ -1,0 +1,32 @@
+html, body {
+    height: 1%;
+    background-size: cover;
+    background-image: Url(tlo.png)
+}
+.icon {
+    position: absolute;
+    top: 50px; bottom: 0px; right: 0px; left: 600px;
+}
+.h1 {
+    position: absolute;
+    font-family: monospace;
+    top: 600px; bottom: 0px; right: 0px; left: 570px;
+    color: black;
+    font-size: 50px;
+}
+.href {
+    width: 210px;
+    height: 55px;
+    position: absolute;
+    text-align: center;
+    font-size: 20px;
+    top: 770px;
+    bottom: 100px;
+    right: 0px;
+    left: 830px;
+    background-color: rgb(255, 149, 0);
+    color: white;
+    border: 1px solid rgb(0, 0, 0);
+    cursor: pointer;
+    border-radius: 15px;
+}
